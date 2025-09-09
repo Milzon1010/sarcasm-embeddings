@@ -1,13 +1,24 @@
-# python
+cat > .gitignore << 'EOF'
+# virtual env
+.venv/
+venv/
+env/
+ENV/
+EOF
+
+cat > .gitignore << 'EOF'
+# virtual env
+.venv/
+venv/
+env/
+ENV/
+
+# python cache & notebook noise
 __pycache__/
 *.pyc
-.venv/
 .ipynb_checkpoints/
-
-# data & models
-data/
-artifacts/
 
 # OS/IDE
 .DS_Store
 .vscode/
+EOF
