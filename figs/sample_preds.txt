@@ -1,0 +1,4 @@
+Great, another delay…	Sarcasm p=0.93
+Thank you so much 🙏	Sarcasm p=0.21
+Yeah right, that meeting was super useful	Sarcasm p=0.09
+I absolutely love waiting in traffic for hours	Sarcasm p=0.12
